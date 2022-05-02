@@ -12,7 +12,7 @@
   <br/>
 <p align="left">
 <a href="https://instagram.com/xlorienull" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xlorienull" height="25" width="40" /></a>
-<a href="https://discord.com/user/926403053618339840" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xlorienull#181" height="30" width="40" /></a>
+<a href="https://discord.com/user/432854313736339466" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xlorienull#181" height="30" width="40" /></a>
 <a href="https://github.com/xlorienull" target="blank"><img align="center" src="https://findicons.com/files/icons/2779/simple_icons/2048/github_2048_black.png" alt="xlorienull" height="40" width="40" /></a>
 <a href="https://open.spotify.com/user/tioe4nfdnqmwkd920wxzbb6lo?si=b4029297ffab41b7" target="blank"><img align="center" src="https://3.bp.blogspot.com/-Q7JrPSPptg8/XHkmi7WYygI/AAAAAAAAIOc/YFPV0Lu-jGYQbJmCG_cRwnGUsTirx-ISACK4BGAYYCw/s1600/spotify%2Blogo.png" alt="xlorienull" height="30" width="30" /></a>
 <a href="https://twitter.com/@xlorienull" target="blank"><img align="center" src="https://th.bing.com/th/id/R.3d74e8bfd4ef7985f7529bb9f7650eca?rik=RCvdo0dDvjxCWg&riu=http%3a%2f%2fwww.stickpng.com%2fassets%2fimages%2f580b57fcd9996e24bc43c53e.png&ehk=%2fkYf7%2bIY6TUkpUQzwclpivMLQ8ynEgcZYehDGOzbu0E%3d&risl=&pid=ImgRaw&r=0" alt="xlorienull" height="40" width="40" /></a>
