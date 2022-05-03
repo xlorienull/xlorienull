@@ -51,7 +51,7 @@ Hi, my name is Mohammed and I'm 17. I started software development 4 year ago wi
 </div>
 </details>
 
-> Translator: [@connorslorien](https://github.com/connorslorien)
+> Translator: [@slorixsh](https://github.com/slorixsh)
 
 
 <!---
