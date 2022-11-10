@@ -8,19 +8,6 @@
 </div>
 
 <details>
-<summary><b>🔗 &nbsp;Connect With Me</b></summary>
-  <br/>
-<p align="left">
-<a href="https://instagram.com/xlorienull" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xlorienull" height="25" width="40" /></a>
-<a href="https://discord.com/user/432854313736339466" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xlorienull#181" height="30" width="40" /></a>
-<a href="https://github.com/xlorienull" target="blank"><img align="center" src="https://findicons.com/files/icons/2779/simple_icons/2048/github_2048_black.png" alt="xlorienull" height="40" width="40" /></a>
-<a href="https://open.spotify.com/user/tioe4nfdnqmwkd920wxzbb6lo?si=b4029297ffab41b7" target="blank"><img align="center" src="https://3.bp.blogspot.com/-Q7JrPSPptg8/XHkmi7WYygI/AAAAAAAAIOc/YFPV0Lu-jGYQbJmCG_cRwnGUsTirx-ISACK4BGAYYCw/s1600/spotify%2Blogo.png" alt="xlorienull" height="30" width="30" /></a>
-<a href="https://twitter.com/@xlorienull" target="blank"><img align="center" src="https://th.bing.com/th/id/R.3d74e8bfd4ef7985f7529bb9f7650eca?rik=RCvdo0dDvjxCWg&riu=http%3a%2f%2fwww.stickpng.com%2fassets%2fimages%2f580b57fcd9996e24bc43c53e.png&ehk=%2fkYf7%2bIY6TUkpUQzwclpivMLQ8ynEgcZYehDGOzbu0E%3d&risl=&pid=ImgRaw&r=0" alt="xlorienull" height="40" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCi1mTrpqsvmgsMUJMosVPmQ" target="blank"><img align="center" src="https://th.bing.com/th/id/R.54faea375a2f350200b28ae9f492848b?rik=A037XxHVLKYYwA&riu=http%3a%2f%2fwww.vectorico.com%2fdownload%2fsocial_media%2fyoutube-icon.png&ehk=h1deHB6td0rDJT90qAO9cgfixC4mbpoRa4l2%2b1Tv6Pw%3d&risl=&pid=ImgRaw&r=0" alt="xlorienull" height="30" width="30" /></a>
-<a href="https://www.twitch.com/xlorienull" target="blank"><img align="center" src="https://maxcdn.icons8.com/Share/icon/Logos/twitch1600.png" alt="xlorienull" height="30" width="30" /></a>
-</details>
-
-<details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 Hi, my name is Mohammed and I'm 17. I started software development 4 year ago with developing Discord bots. And i continue software development with learning Full Stack Web Development. I still learning new stuff in programming. I'm a JavaScript, React, and Vue developer. 
